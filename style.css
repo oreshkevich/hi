@@ -1,0 +1,24 @@
+body {
+
+	color: rgb(224, 37, 53);
+	font-size: 19px;
+	text-align: center;
+}
+
+img {
+	margin: auto;
+	border-radius: 25px;
+	border: 1px solid grey;
+	/* width: 400px;
+	height: 400px; */
+}
+
+img:hover {
+	border-radius: 10px;
+}
+
+a {
+	text-decoration: none;
+	font-size: 25px;
+	color: white;
+}
